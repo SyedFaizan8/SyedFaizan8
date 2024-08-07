@@ -40,9 +40,8 @@ I'm a fresh Computer Science Engineering graduate with a passion for web develop
 - Video games
 
 ## 🔗 Links
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Instagram](https://twitter.com/your-twitter-username)
+- [LinkedIn](https://www.linkedin.com/in/syedfaizan-edu)
+- [Instagram](https://twitter.com/your-twitter-username](https://www.instagram.com/syedfaizan.8?igsh=MW5rNmVtcDhjMjBydA==)
 - [Portfolio](https://www.syedfaizan.in)
 
 ## 📈 GitHub Stats
