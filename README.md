@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Syed Faizan! 👋
 
-<!--
-**SyedFaizan8/SyedFaizan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a fresh Computer Science Engineering graduate with a passion for web development, particularly in React and Next.js. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
+
+### Web Technologies
+- HTML
+- CSS
+- Tailwind CSS
+- React.js
+- Next.js
+- React Native
+
+### Database
+- SQL
+- MongoDB
+
+### Tools and Platforms
+- Git
+- Linux
+
+## 💼 Projects
+
+### Portfolio Website
+- **Description:** My portfolio website showcases my skills, projects, and experiences.
+- **Tech Stack:** Next.js, Tailwind CSS, ShadcnUI, Framer Motion, Lenis Scroll, Aceternity UI
+- **Live Site:** [www.syedfaizan.in]
+
+## ⚽ Interests
+- Football
+- Video games
+
+## 🔗 Links
+- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- [Instagram](https://twitter.com/your-twitter-username)
+- [Portfolio](https://www.syedfaizan.in)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊
