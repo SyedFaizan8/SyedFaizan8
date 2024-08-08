@@ -45,7 +45,7 @@ I'm a fresh Computer Science Engineering graduate with a passion for web develop
 - [Portfolio](https://www.syedfaizan.in)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<p><img align="left" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfaizan8&show_icons=true&locale=en&layout=compact" alt="syedfaizan8" /></p>
 
 ---
 
