@@ -79,7 +79,9 @@ I'm a fresh Computer Science Engineering graduate with a passion for web develop
   <a href="https://www.instagram.com/syedfaizan.8?igsh=MW5rNmVtcDhjMjBydA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://discordapp.com/users/1051833937120477224" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
   <a href="https://www.linkedin.com/in/syedfaizan-edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -87,7 +89,6 @@ I'm a fresh Computer Science Engineering graduate with a passion for web develop
 
 ## 📈 GitHub Stats
 <p><img align="left" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfaizan8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="syedfaizan8" /></p>
-</br>
 ---
 
 Thanks for visiting my profile! Have a great day! 😊
