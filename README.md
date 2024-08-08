@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 I'm a fresh Computer Science Engineering graduate with a passion for web development, particularly in React and Next.js. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
-Checkout my website[www.syedfaizan.in](https://syedfaizan.in)
+
+Checkout my website [www.syedfaizan.in](https://syedfaizan.in)
 
 ## 🛠️ Skills
 <div align="left">
@@ -90,6 +91,7 @@ Checkout my website[www.syedfaizan.in](https://syedfaizan.in)
 
 ## 📈 GitHub Stats
 <p><img align="left" style="background-color: black" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedfaizan8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="syedfaizan8" /></p>
+
 ---
 
 Thanks for visiting my profile! Have a great day! 😊
