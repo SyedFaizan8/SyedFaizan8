@@ -1,7 +1,7 @@
 # Hi there, I'm Syed Faizan! 👋
 
 ## 🚀 About Me
-I'm a fresh Computer Science Engineering graduate with a passion for web development, particularly in React and Next.js. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
+I'm a Software developer with a passion for web development, particularly in React and Next.js. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
 
 Checkout my website [www.syedfaizan.in](https://syedfaizan.in)
 
