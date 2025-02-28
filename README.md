@@ -1,12 +1,35 @@
 # Hi there, I'm Syed Faizan! 👋
 
 ## 🚀 About Me
-I'm a Software developer with a passion for web development, particularly in React and Next.js. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
+I'm a Software developer with a passion for web development. I love working on exciting projects, learning new technologies, and collaborating with others to create amazing user experiences.
 
 Checkout my website [www.syedfaizan.in](https://syedfaizan.in)
 
 ###
 ## 💼 Projects
+
+### VELOCITYPE
+- Developed a full-featured speed typing platform offering 15s and 60s tests with real-time analytics.
+- Engineered dynamic user profiles displaying comprehensive metrics such as WPM progression, total tests, and typing statistics.
+- Designed a competitive global leaderboard for real-time rankings and personal best tracking.
+- Leveraged Next.js SSR and TurboRepo for scalable, maintainable development, with Prisma and PostgreSQL handling robust data operations.
+- Integrated JWT authentication, Cloudflare Turnstile for bot protection, and Upstash Redis for efficient caching and rate limiting.
+- **Technologies used:** Next.js, TypeScript, TurboRepo, Prisma, PostgresSQL, Redux Toolkit, Tailwind CSS, JWT, Upstash Redis, Cloudflare Turnstile. 
+- **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/Velocitype.git)
+- **Link:** [velocitype.syedfaizan.in](http://velocitype.syedfaizan.in)
+
+### PORTFOLIO
+- Created a responsive portfolio to showcase projects and skills.
+- **Technologies used:** Next.js, Vercel, Tailwind CSS, Aceternity UI, Lenis scroll.
+- **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/Portfolio.git)
+- **Link:** [www.syedfaizan.in](http://www.syedfaizan.in)
+
+### CONNECTLY
+- Built a peer-to-peer video calling platform using WebRTC technology.
+- Implemented Express.js as the signaling server with Socket.IO for real-time communication.
+- Utilized PeerJS to establish peer-to-peer connections for video calls.
+- The project is organized as a Turbo Repo with separate frontend and backend applications.
+- **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/Connectly.git)
 
 ### AGROCHAIN
 - Developed a web application to track the full supply chain from farmer to consumer using Ethereum blockchain.
@@ -15,11 +38,6 @@ Checkout my website [www.syedfaizan.in](https://syedfaizan.in)
 - **Technologies used:** React.js, Tailwind CSS, Solidity, Hardhat, Ganache, Meta-Mask.
 - **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/Blockchain-Based_SupplyChainManagement_for_AgriculturalProducts.git)
 
-### PORTFOLIO
-- Created a responsive portfolio to showcase projects and skills.
-- **Technologies used:** Next.js, Vercel, Tailwind CSS, Aceternity UI, Lenis scroll.
-- **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/SyedFaizan8)
-- **Link:** [www.syedfaizan.in](http://www.syedfaizan.in)
 
 ## ⚽ Interests
 - Football
