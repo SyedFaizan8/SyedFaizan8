@@ -16,7 +16,7 @@ Checkout my website [www.syedfaizan.in](https://syedfaizan.in)
 - Integrated JWT authentication, Cloudflare Turnstile for bot protection, and Upstash Redis for efficient caching and rate limiting.
 - **Technologies used:** Next.js, TypeScript, TurboRepo, Prisma, PostgresSQL, Redux Toolkit, Tailwind CSS, JWT, Upstash Redis, Cloudflare Turnstile. 
 - **GitHub:** [GitHub Repository](https://github.com/SyedFaizan8/Velocitype.git)
-- **Link:** [velocitype.syedfaizan.in](http://velocitype.syedfaizan.in)
+- **Link:** [velocitype.syedfaizan.in](http://www.velocitype.live)
 
 ### PORTFOLIO
 - Created a responsive portfolio to showcase projects and skills.
